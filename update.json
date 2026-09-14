@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "",
-  "notes": "النسخة الأساسية من تطبيق مآذن حضرموت"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/maasyop-max/maathin-hadramout-releases/releases/download/v1.0.1/Maathin-Hadramout-v1.0.1.apk",
+  "notes": "إضافة نظام التحديث داخل التطبيق مع الحفاظ على التصميم والقوائم والمعلومات الرئيسية"
 }
