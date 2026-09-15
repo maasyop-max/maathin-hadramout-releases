@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/maasyop-max/maathin-hadramout-releases/releases/download/v1.0.1/Maathin-Hadramout-v1.0.1.apk",
-  "notes": "إضافة نظام التحديث داخل التطبيق مع الحفاظ على التصميم والقوائم والمعلومات الرئيسية"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/maasyop-max/maathin-hadramout-releases/releases/download/v1.0.3/Maathin-Hadramout-v1.0.3.apk",
+  "notes": "تحسين وضوح الخطوط وتنظيم بطاقات الصفحة الرئيسية مع الحفاظ على التصميم والوظائف الحالية"
 }
